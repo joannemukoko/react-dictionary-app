@@ -3,6 +3,11 @@ body {
 }
 .App-header {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 10px;
   margin-bottom: 30px;
+}
+.App {
+  padding: 100px;
+  max-width: 960px;
+  margin: 0 auto;
 }
