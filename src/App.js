@@ -25,7 +25,7 @@ function App() {
           and is{" "}
           <a
             href="https://github.com/joannemukoko/react-dictionary-app"
-            targt="_blank"
+            target="_blank"
             rel="noreferrer"
           >
             open-sourced on Github
