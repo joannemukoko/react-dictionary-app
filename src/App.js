@@ -10,7 +10,7 @@ function App() {
           {" "}
           <h1>Dictionary</h1>
         </header>
-        <Dictionary />
+        <Dictionary defaultKeyword="book" />
       </div>
       <footer className="App-footer">
         <small>
